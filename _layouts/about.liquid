@@ -48,6 +48,17 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+
+     <!-- CV -->
+    {%- if page.profile.cv %}
+        <div class="address">
+          {%- assign cv_path = page.profile.cv | prepend: 'assets/pdf/' -%}
+
+          Find my <a href="{{ cv_path }}">CV here.</a>
+        </div>
+        {%- endif %}
+
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
