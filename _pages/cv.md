@@ -1,3 +1,4 @@
+---
 layout: cv
 permalink: /cv/
 title: cv
@@ -7,3 +8,4 @@ cv_pdf: cv_template_mine.pdf # you can also use external links here
 description: 
 toc:
   sidebar: left
+---
