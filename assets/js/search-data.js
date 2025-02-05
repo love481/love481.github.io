@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{
+        },{id: "post-notion-the-all-in-one-workspace-for-your-notes-tasks-wikis-and-databases",
+      
+        title: 'Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://oval-scraper-055.notion.site/SLAM-Topics-4ae20cd5266a4df1b403e7ffc3460afb", "_blank");
+        
+      },
+    },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
