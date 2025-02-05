@@ -123,12 +123,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  # - name: Medium.com
-  #   rss_url: https://medium.com/@al-folio/feed
   - name: Personal Blogs
-    posts:
-      - url: https://oval-scraper-055.notion.site/SLAM-Topics-4ae20cd5266a4df1b403e7ffc3460afb
-        published_date: 2025-02-05
+    rss_url: https://oval-scraper-055.notion.site/SLAM-Topics-4ae20cd5266a4df1b403e7ffc3460afb
+  # - name: Personal Blogs
+  #   posts:
+  #     - url: https://oval-scraper-055.notion.site/SLAM-Topics-4ae20cd5266a4df1b403e7ffc3460afb
+  #       published_date: 2025-02-05
 
 # -----------------------------------------------------------------------------
 # Newsletter
