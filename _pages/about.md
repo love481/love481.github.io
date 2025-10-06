@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I’m an electronics engineering graduate from Pulchowk Campus, IOE, Nepal. I work with [Dr. Binod Bhattarai](https://scholar.google.com/citations?user=EJh5zWwAAAAJ&hl=en) as a research assistant at [Multimodal Learning Lab](https://sites.google.com/view/bbinod/team). I am currently doing research on Surgical Vision World Model.
+I’m an electronics engineering graduate from Pulchowk Campus, IOE, Nepal. I work with [Dr. Binod Bhattarai](https://scholar.google.com/citations?user=PDEi58sAAAAJ) as a research assistant at [Multimodal Learning Lab](https://sites.google.com/view/bbinod/team). I am currently doing research on Surgical Vision World Model.
 
 I am interested in domain combining Robotics and AI. My research focuses on improving the performance of autonomous systems by bridging the gaps between hardware, software and control technologies. I love to work on the field of machine intelligence which leverages RL techniques with advanced control algorithms to improve their efficiency and operational characteristics.
 
